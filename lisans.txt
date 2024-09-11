@@ -1,1 +1,10 @@
 
+{
+    "guilds": [
+        {
+            "id": "1282728298463367199",
+            "name": "GuildName",
+            "license": "XKA-ASJ-12S"   
+        }
+    ]
+}
